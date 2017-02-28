@@ -3,8 +3,15 @@
 	height: 50px;
 	background-color: #00000f;
 }
+.Header ul{
+	float: right;
+}
 .Header ul li{
+	
 	display:inline;	 
+}
+.Header ul li a{
+	color: #FFFFFF;
 }
 .Main{
 	background-color: #8E8E8E;
