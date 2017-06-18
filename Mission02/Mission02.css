@@ -24,6 +24,8 @@ body{
     margin-right: 10px;
     margin-left: 10px;
 	background-color:#FFFFFF;
+	box-shadow: 10px 10px 5px #888888;
+
 }
 .Second{
     margin: 10px;
